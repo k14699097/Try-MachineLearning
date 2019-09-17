@@ -1,0 +1,10 @@
+I'm trying to create a machinelearning algrithm based on this dataset to predict which department you may want to go base on
+how many times you wanna spent on working/month.
+
+My steps
+1:collect data(completed)
+2:prepare data(delete all valueless data like value =o or null)(completed)
+3:analyze data
+4:plot data
+5:test algrithm(k-means)
+6:use algrithm
